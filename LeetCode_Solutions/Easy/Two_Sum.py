@@ -5,7 +5,7 @@ Platform: LeetCode
 Difficultiy: Easy
 
 Time complexity: O(N)
-space COmplexity: O()
+space COmplexity: O(N)
 """
 
 class Solution(object):
